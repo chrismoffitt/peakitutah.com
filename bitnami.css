@@ -8,8 +8,8 @@ h2 {margin-top:0;margin-bottom:0;font-size:25px;padding-top:0;padding-bottom:0}
 .clear {clear:both}
 .center {margin-left:auto;margin-right:auto;}
 
-#container {background: url(./img/plain-background.png) top center no-repeat;width:100%;min-height:1000px;}
-.container-virtual-applicances#container {background: url(./img/plain-background.png) top center no-repeat;width:100%;min-height:1000px;background-position:center -190px}
+#container {background: url(./img/mountains.png) top center no-repeat;width:100%;min-height:1000px;}
+.container-virtual-applicances#container {background: url(./img/mountains.png) top center no-repeat;width:100%;min-height:1000px;}
 
 #traslations-menu {float:right;margin-top:20px;margin-right:20px;font-size:11px;}
 
