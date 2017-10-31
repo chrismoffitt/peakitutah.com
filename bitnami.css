@@ -8,15 +8,26 @@ h2 {margin-top:0;margin-bottom:0;font-size:25px;padding-top:0;padding-bottom:0}
 .clear {clear:both}
 .center {margin-left:auto;margin-right:auto;}
 
-#container {background: url(./img/mountains.png) top center no-repeat;width:100%;min-height:1000px;}
-.container-virtual-applicances#container {background: url(./img/mountains.png) top center no-repeat;width:100%;min-height:1000px;}
+#container {
+  background: url(./img/mountains.png) top;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+}
+
+.container-virtual-applicances#container {
+  width:100%;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+}
 
 #traslations-menu {float:right;margin-top:20px;margin-right:20px;font-size:11px;}
 
 #traslations-menu img {margin-left:22px;margin-right:7px;vertical-align:middle;}
 
 
-#header {background:#fff;height:75px;width:100%;}
+/*#header {background:#fff;height:75px;width:100%;}*/
 
 #dashboard-content {margin-left:auto;margin-right:auto;margin-top:15px;width:780px}
 #dashboard-slogan {margin-top:30px;float:left;display:block;width:520px}
