@@ -1,2 +1,2 @@
 # peakitutah.com
-" Bitnamae LampStack on AWS lightsail"
+" Bitnami LampStack on AWS lightsail"
